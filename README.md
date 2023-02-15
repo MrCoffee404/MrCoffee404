@@ -2,9 +2,6 @@
 
 <img align='right' src="https://media.tenor.com/gSmJEv_z2O4AAAAd/snine-snine19.gif" width="250">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=accessmodifier364.MrCoffee404&right_color=pink)
-[![github](https://img.shields.io/github/followers/MrCoffee404?label=follow&style=social)](https://github.com/MrCoffee404)
-
 <h2> Hi, im studying some things and doing some code :3 </h2>
 
 <h3 align="left">Socials:</h3>
