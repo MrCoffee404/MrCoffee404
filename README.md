@@ -26,7 +26,4 @@ I love cats!</em>
 </p>
 </br>
 
-<a href="https://github.com/MrCoffee404">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MrCoffee404&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
 <h4> The :3 community is dying, repost if u are a true :3 </h4>
